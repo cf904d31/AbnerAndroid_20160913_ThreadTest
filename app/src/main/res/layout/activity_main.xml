@@ -7,8 +7,13 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Click me"
+        android:text="Click me1"
         android:onClick="test1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click me2"
+        android:onClick="test2"/>
     <TextView
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
